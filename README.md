@@ -14,7 +14,7 @@ Oh no! Write me an issue here with the name of the node and I will take care of 
 | SNST | Sun > https://tinyurl.com/khdywfj5           | client      |         |                  |                     |                                         |
 | DWRF | Dwarf > https://tinyurl.com/khdywfj5         | client      |         |                  |                     |                                         |
 | KLRS | Kellerskopf > https://tinyurl.com/khdywfj5   | client      |         |                  |                     |                                         |
-| SWLW | Swallow > https://tinyurl.com/khdywfj5       | client      |         |                  |                     |                                         |
+| NRTH | North > https://tinyurl.com/khdywfj5         | client      |         |                  |                     |                                         |
 
 > [!NOTE]  
 > Follows Netiquette: It follows the setup guidelines on https://wiki.meshhessen.de/index.php?title=Traffic_Netiquette_f%C3%BCr_Meshtastic
