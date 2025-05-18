@@ -11,7 +11,7 @@ Oh no! Write me an issue here with the name of the node and I will take care of 
 | --------- |------ | ----------------------------------| ------------| --------| ---------------- | ------------------- | --------------------------------------- |
 | !ae88a83a | Bee   | Bee https://meshhessen.de         | client_mute | 2.5.20  | 1.5.2025         | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
 |           | Flwr  | Flower MQTT https://meshhessen.de | client      | 2.5.5   |                  |                     |                                         |
-|           | Sun   | Sun https://meshhessen.de         | client      |         |                  |                     |                                         |
+| !316b3ff9 | Sun   | Sun https://meshhessen.de         | client      |         |                  |                     |                                         |
 |           | Dwrf  | Dwarf https://meshhessen.de       | client      |         |                  |                     |                                         |
 |           | Klrs  | Kellerskopf https://meshhessen.de | client      |         |                  |                     |                                         |
 | !86d39b0d | Nrth  | North https://meshhessen.de       | client      |         |                  |                     |                                         |
