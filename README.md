@@ -14,7 +14,7 @@ Oh no! Write me an issue here with the name of the node and I will take care of 
 |           | SNST  | Sun https://meshhessen.de         | client      |         |                  |                     |                                         |
 |           | DWRF  | Dwarf https://meshhessen.de       | client      |         |                  |                     |                                         |
 |           | KLRS  | Kellerskopf https://meshhessen.de | client      |         |                  |                     |                                         |
-|           | NRTH  | North https://meshhessen.de       | client      |         |                  |                     |                                         |
+| !86d39b0d | NRTH  | North https://meshhessen.de       | client      |         |                  |                     |                                         |
 
 > [!NOTE]  
 > Follows Netiquette: It follows the setup guidelines on https://wiki.meshhessen.de/index.php?title=Traffic_Netiquette_f%C3%BCr_Meshtastic
