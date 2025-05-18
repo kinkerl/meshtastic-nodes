@@ -10,11 +10,12 @@ Oh no! Write me an issue here with the name of the node and I will take care of 
 | ID        | Short | Long                              | Client      | Version | Last Maintenance | Follows Netiquette* | Custodian                               |
 | --------- |------ | ----------------------------------| ------------| --------| ---------------- | ------------------- | --------------------------------------- |
 | !ae88a83a | Bee   | Bee https://meshhessen.de         | client_mute | 2.5.20  | 1.5.2025         | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
-|           | FWR   | Flower https://meshhessen.de      | client_mute | 2.5.5   |                  |                     |                                         |
-|           | SNST  | Sun https://meshhessen.de         | client      |         |                  |                     |                                         |
-|           | DWRF  | Dwarf https://meshhessen.de       | client      |         |                  |                     |                                         |
-|           | KLRS  | Kellerskopf https://meshhessen.de | client      |         |                  |                     |                                         |
-| !86d39b0d | NRTH  | North https://meshhessen.de       | client      |         |                  |                     |                                         |
+|           | Flwr  | Flower MQTT https://meshhessen.de | client      | 2.5.5   |                  |                     |                                         |
+|           | Sun   | Sun https://meshhessen.de         | client      |         |                  |                     |                                         |
+|           | Dwrf  | Dwarf https://meshhessen.de       | client      |         |                  |                     |                                         |
+|           | Klrs  | Kellerskopf https://meshhessen.de | client      |         |                  |                     |                                         |
+| !86d39b0d | Nrth  | North https://meshhessen.de       | client      |         |                  |                     |                                         |
+|           | HaTo  | HaTo https://meshhessen.de        | client      |         |                  |                     |                                         |
 
 > [!NOTE]  
 > Follows Netiquette: It follows the setup guidelines on https://wiki.meshhessen.de/index.php?title=Traffic_Netiquette_f%C3%BCr_Meshtastic
