@@ -1,5 +1,5 @@
 # meshtastic-nodes
-Meshtastic nodes, operated by me
+Meshtastic nodes, operated by me. Checkout https://github.com/kinkerl/meshtastic-node-documentation to see how each node is built. 
 
 ## A node is misbehaving or offline!
 
