@@ -10,7 +10,7 @@ Oh no! Write me an issue here with the name of the node and I will take care of 
 | ID        | Short | Long                              | Client      | Version | Last Maintenance | Follows Netiquette* | Custodian                               |
 | --------- |------ | ----------------------------------| ------------| --------| ---------------- | ------------------- | --------------------------------------- |
 | !ae88a83a | Bee   | Bee https://meshhessen.de         | client_mute | 2.5.20  | 1.5.2025         | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
-|           | Flwr  | Flower MQTT https://meshhessen.de | client      | 2.5.5   |                  |                     |                                         |
+| !ce1fd58d | Flwr  | Flower MQTT https://meshhessen.de | client      | 2.5.5   |                  |                     |                                         |
 | !316b3ff9 | Sun   | Sun https://meshhessen.de         | client      |         |                  |                     |                                         |
 |           | Dwrf  | Dwarf https://meshhessen.de       | client      |         |                  |                     |                                         |
 | !71fb0380 | Klrs  | Kellerskopf https://meshhessen.de | client      | 2.5.20  |                  |                     |                                         |
