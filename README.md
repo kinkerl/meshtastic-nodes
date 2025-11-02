@@ -13,7 +13,6 @@ Oh no! Write me an issue here with the name of the node and I will take care of 
 | !ce1fd58d | Flwr  | Flower (MQTT Gateway) \| meshhessen.de | client      | 2.6.9   | 29.5.2025        | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
 | !316b3ff9 | Sun   | Sun \| meshhessen.de                   | client      | 2.6.9   | 29.5.2025        | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
 | !de9d58b0 | Dwrf  | Dwarf \| meshhessen.de                 | client      | 2.6.9   | 29.5.2025        | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
-| !71fb0380 | Klrs  | Kellerskopf \| meshhessen.de           | client      | 2.6.9   | 29.5.2025        | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
 | !86d39b0d | Nrth  | North \| meshhessen.de                 | client      | 2.6.9   | 29.5.2025        | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
 | !4e216587 | HaTo  | HaTo \| meshhessen.de                  | client      | 2.6.9   | 29.5.2025        | ✔                  | [@kinkerl](https://github.com/kinkerl)  |
 
